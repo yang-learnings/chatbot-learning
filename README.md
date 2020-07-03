@@ -36,3 +36,6 @@ Parsing text helps understand the relationship between words.
 
 ### Bag of Words Approach
 A simple model to use which basically count the times each word has been used.
+
+### N-Gram model
+N-Gram model is similar to bag of words but instead we are grouping a bunch of adjacent words and counting them

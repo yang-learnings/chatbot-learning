@@ -39,3 +39,13 @@ A simple model to use which basically count the times each word has been used.
 
 ### N-Gram model
 N-Gram model is similar to bag of words but instead we are grouping a bunch of adjacent words and counting them
+
+### Topic Modelling
+Group topics together
+
+#### Step 1
+- **term frequency-inverse document frequency (tf-idf)**, prioritising less frequent words together
+genism, sklearn are python libraries.
+
+#### Step 2
+- **latent Dirichlet allocation** statistical model which determines the most commonly used words which keeps poping up in the same context

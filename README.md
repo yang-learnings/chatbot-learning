@@ -48,3 +48,6 @@ Group topics together
 genism, sklearn are python libraries.
 
 2. **latent Dirichlet allocation** statistical model which determines the most commonly used words which keeps poping up in the same context
+
+### Text Similarity
+Text similarity is measured in **Levenshtein distance**, for example, beans and bees have a distance of 2. swap one "e" and add one "a"
